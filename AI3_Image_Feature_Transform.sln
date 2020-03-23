@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI3_Image_Feature_Transform", "AI3_Image_Feature_Transform\AI3_Image_Feature_Transform.csproj", "{F1FF59A5-63EE-4DC5-86E3-D7DF2FDAD728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FF59A5-63EE-4DC5-86E3-D7DF2FDAD728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FF59A5-63EE-4DC5-86E3-D7DF2FDAD728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FF59A5-63EE-4DC5-86E3-D7DF2FDAD728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FF59A5-63EE-4DC5-86E3-D7DF2FDAD728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0391AF65-8671-4487-A3E8-942A1EC1CE20}
+	EndGlobalSection
+EndGlobal
